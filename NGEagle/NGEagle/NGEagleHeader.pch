@@ -1,0 +1,22 @@
+//
+//  NGEagleHeader.pch
+//  NGEagle
+//
+//  Created by Liang on 15/7/18.
+//  Copyright (c) 2015年 Baidu. All rights reserved.
+//
+
+
+#import "Macro.h"
+
+#import "ChatDemoUIDefine.h"
+#import "WCAlertView.h"
+#import "TTGlobalUICommon.h"
+#import "UIViewController+HUD.h"
+#import "UIViewController+DismissKeyboard.h"
+#import "NSString+Valid.h"
+
+#import "EaseMob.h"
+#import "Masonry.h"
+#import "UIView+AutoLayout.h"
+#import "MBProgressHUD+BWMExtension.h"

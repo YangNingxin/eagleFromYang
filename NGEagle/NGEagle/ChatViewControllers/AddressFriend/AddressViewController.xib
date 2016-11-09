@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="AddressViewController">
+            <connections>
+                <outlet property="searchDisplayController" destination="DmS-kF-MLx" id="rHG-S6-Mbv"/>
+                <outlet property="tableView" destination="eqk-hv-9ZO" id="N2M-JJ-sHQ"/>
+                <outlet property="view" destination="iN0-l3-epB" id="rWp-TE-EKb"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="grouped" separatorStyle="default" rowHeight="44" sectionHeaderHeight="10" sectionFooterHeight="10" id="eqk-hv-9ZO">
+                    <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                    <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                    <connections>
+                        <outlet property="dataSource" destination="-1" id="YmN-B8-3m4"/>
+                        <outlet property="delegate" destination="-1" id="lbl-G7-l5E"/>
+                    </connections>
+                </tableView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <point key="canvasLocation" x="42" y="324"/>
+        </view>
+        <searchDisplayController id="DmS-kF-MLx">
+            <connections>
+                <outlet property="delegate" destination="-1" id="xvb-Lg-4Sd"/>
+                <outlet property="searchBar" destination="rrS-te-GpW" id="qnA-66-mCo"/>
+                <outlet property="searchContentsController" destination="-1" id="5Ay-KD-TvR"/>
+                <outlet property="searchResultsDataSource" destination="-1" id="png-tM-AX4"/>
+                <outlet property="searchResultsDelegate" destination="-1" id="SQo-Qo-tGQ"/>
+            </connections>
+        </searchDisplayController>
+        <searchBar contentMode="redraw" id="rrS-te-GpW">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+            <textInputTraits key="textInputTraits"/>
+            <connections>
+                <outlet property="delegate" destination="-1" id="MdG-gD-vrY"/>
+            </connections>
+            <point key="canvasLocation" x="236" y="314"/>
+        </searchBar>
+    </objects>
+</document>

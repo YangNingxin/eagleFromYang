@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7E83C829-AF6C-46B4-B493-33EF0EF44BDB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NGEagle</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CEE60C2A74B8DF078A9ABB620F99E7754FBB7E23</key>
+		<string>https://git.oschina.net/changcunyuan/eagleForIphone.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NGEagle/NGEagle.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CEE60C2A74B8DF078A9ABB620F99E7754FBB7E23</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.oschina.net/changcunyuan/eagleForIphone.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CEE60C2A74B8DF078A9ABB620F99E7754FBB7E23</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CEE60C2A74B8DF078A9ABB620F99E7754FBB7E23</string>
+			<key>IDESourceControlWCCName</key>
+			<string>eagleForIphone</string>
+		</dict>
+	</array>
+</dict>
+</plist>
