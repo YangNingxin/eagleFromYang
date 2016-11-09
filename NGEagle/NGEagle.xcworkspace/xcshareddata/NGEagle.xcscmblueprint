@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EFD3537A91ED4784514BB87A7E65668424BCDE1D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CEE60C2A74B8DF078A9ABB620F99E7754FBB7E23" : 0,
+    "EFD3537A91ED4784514BB87A7E65668424BCDE1D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E4D046DA-9E3B-4F42-8E7A-0C27FE93EFE9",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CEE60C2A74B8DF078A9ABB620F99E7754FBB7E23" : "eagleForIphone",
+    "EFD3537A91ED4784514BB87A7E65668424BCDE1D" : "eagleFromYang\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "NGEagle",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "NGEagle\/NGEagle.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/changcunyuan\/eagleForIphone.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CEE60C2A74B8DF078A9ABB620F99E7754FBB7E23"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/YangNingxin\/eagleFromYang.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EFD3537A91ED4784514BB87A7E65668424BCDE1D"
+    }
+  ]
+}
